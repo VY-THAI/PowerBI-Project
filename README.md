@@ -1,0 +1,1 @@
+An in-dept analysis of Walmart case study by utilising a dataset of sales transactions. Dashboard is built by PowerBI, which offers insights into product performance, sales trends, and channel effectiveness to facilitate data-driven decision making. 
